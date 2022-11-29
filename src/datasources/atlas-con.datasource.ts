@@ -5,7 +5,7 @@ const config = {
   name: 'AtlasCon',
   connector: 'mongodb',
   url: 'mongodb+srv://Grupo4DEV:jdqueMvc9ENuz8hD@cluster0.ffh2x84.mongodb.net/spbauchers',
-  host: 'localhost',
+  host: 'cluster0.ffh2x84.mongodb.net',
   port: 27017,
   user: 'Grupo4DEV',
   password: 'jdqueMvc9ENuz8hD',
